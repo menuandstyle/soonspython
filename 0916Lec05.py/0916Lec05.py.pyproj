@@ -3,15 +3,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>d9ff9500-a67f-44ea-a2ef-37c909e772e8</ProjectGuid>
+    <ProjectGuid>8c45eb63-71e8-4d75-9532-98e432916a35</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>_0914Lec04.py.py</StartupFile>
+    <StartupFile>_0916Lec05.py.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>0914Lec04.py</Name>
-    <RootNamespace>0914Lec04.py</RootNamespace>
+    <Name>0916Lec05.py</Name>
+    <RootNamespace>0916Lec05.py</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -22,14 +22,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="printData.py" />
-    <Compile Include="sample\printData.py" />
-    <Compile Include="sample\setup.py" />
-    <Compile Include="setup.py" />
-    <Compile Include="_0914Lec04.py.py" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="sample\" />
+    <Compile Include="_0916Lec05.py.py" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
